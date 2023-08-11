@@ -19,3 +19,7 @@ O curso abrange o Java desde o nível básico até recursos avançados e projeto
 ### [Programação em Python do Básico ao Avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/) - Geek University
 
 Explorando a versatilidade da linguagem Python, este curso me forneceu conhecimentos desde os fundamentos até tópicos avançados. Aprendi a criar scripts, desenvolver aplicações web e usar bibliotecas populares.
+
+### [Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022](https://www.udemy.com/course/curso-flutter/) - Leonardo Moura Leitao e Cod3r Cursos Online
+
+O foco será em construir aplicativos eficientes e nativos tanto para Android quanto para iOS, compartilhando grande parte do código entre as plataformas. Com uma abordagem hands-on, explorando os conceitos fundamentais do Flutter, desde a criação da interface do usuário com widgets personalizados até a integração de recursos avançados, como autenticação, banco de dados e consumo de APIs.
