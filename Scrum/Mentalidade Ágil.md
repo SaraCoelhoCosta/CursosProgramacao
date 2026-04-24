@@ -4,8 +4,8 @@ Manifesto ágil é um protesto, criado por volta do ano 2000, como forma de prot
 ### **Valores:**
 1. **Pessoas e interações tem uma importância maior que os processos e ferramentas:** Se não houver interação e pessoas para desenvolver não terão processos e ferramentas que funcionem.
 2. **Software funcional tem uma importância maior que uma documentação abrangente:** Criar a documentação a partir da ideia de um sistema funcional.
-3. **Colaboração com o cliente tem uma importância maior que a negociação de contrato:** Entender o que o clienete está necessitando e não apenas entregar apenas o que foi contratado.
-4. **Respostas a mudança ´tem uma importância maior que seguir um plano:** Ser flexível e se adaptar ao mercado.
+3. **Colaboração com o cliente tem uma importância maior que a negociação de contrato:** Entender o que o cliente está necessitando e não apenas entregar apenas o que foi contratado.
+4. **Respostas a mudança tem uma importância maior que seguir um plano:** Ser flexível e se adaptar ao mercado.
 
 # [Os 12 princípios do manifesto ágil](https://www.youtube.com/watch?v=xPsuOC7LtrA)
 
